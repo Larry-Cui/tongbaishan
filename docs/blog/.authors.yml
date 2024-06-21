@@ -1,0 +1,12 @@
+authors:
+  Brian:
+    name: Brian # Author name
+    description: G8 student, Badminton Player, Foodie # Author description
+    avatar: ../assets/logos/brian-avatar.jpg # Author avatar
+    slug: url # Author profile slug
+    url: url # Author website URL
+  Sophie:
+    name: 晓娟
+    description: 勤恳的劳动者，温和坚韧而感性的女性
+    avatar: ../assets/logos/sophie-avatar.jpg
+    url: url
