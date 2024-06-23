@@ -45,7 +45,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-  language: en
+  language: zh
 
   logo: assets/logos/pine-cone.png
   favicon: assets/logos/pine-cone.png
