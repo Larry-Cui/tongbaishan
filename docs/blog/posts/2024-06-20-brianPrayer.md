@@ -5,7 +5,7 @@ authors: [Brian]
 categories:
   - 祝福卡片
 draft: false
-disqus: <tongbaishan>
+# disqus: <tongbaishan>
 ---
 
 ![peace dove](/blog/img/WechatIMG85.jpg)
@@ -15,6 +15,8 @@ disqus: <tongbaishan>
 ![peace dove](/blog/img/WechatIMG86.jpg){ width="400", align=left }
 
 <br>
+
+In English
 
 **Hope you have a pleasant careless peaceful time in heaven.**
 
