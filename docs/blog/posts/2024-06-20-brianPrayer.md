@@ -16,8 +16,6 @@ draft: false
 
 <br>
 
-In English
-
 **Hope you have a pleasant careless peaceful time in heaven.**
 
 **Wish you can enjoy your afterlife, eternal life.**
