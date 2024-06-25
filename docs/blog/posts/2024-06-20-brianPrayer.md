@@ -5,6 +5,7 @@ authors: [Brian]
 categories:
   - 祝福卡片
 draft: false
+disqus: <tongbaishan>
 ---
 
 ![peace dove](/blog/img/WechatIMG85.jpg)

@@ -1,5 +1,5 @@
 site_name: 桐柏山
-site_url: https://jadeimmigration.netlify.app/
+site_url: https://tongbaishan.netlify.app/
 copyright: 版权所有 &copy; 2024 桐柏一家人
 
 nav:
@@ -77,6 +77,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: longtsui@gmail.com
   generator: false
+  disqus: tongbaishan2
 
 plugins:
   - search
@@ -85,6 +86,7 @@ plugins:
       draft_on_serve: false
 
 markdown_extensions:
+  # - meta
   - admonition
   - pymdownx.details
   - pymdownx.superfences
