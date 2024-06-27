@@ -6,3 +6,7 @@
     <!-- Copy & Pasted from YouTube -->
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/LADk8MSC1f0" title="2013 04 20 Sophie生日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+<div class="videoWrapper">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/NCAGnv4epv4" title="0623 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
