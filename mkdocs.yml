@@ -4,11 +4,20 @@ copyright: 版权所有 &copy; 2024 桐柏一家人
 
 nav:
   - 照片墙:
-      - 尘封的记忆: photo-intro/olds.md
-      - 方庄 (2011~ ): photo-intro/fangzhuang.md
-      - 后沙峪 (2014~ ): photo-intro/houshayu.md
+      - 老照片: photo-intro/olds.md
+      - 方庄: photo-intro/fangzhuang.md
+      - 后沙峪: photo-intro/houshayu.md
   - 放映厅:
-      - 在北京: video-intro/beijing.md
+      - 北京家里过生日: video-intro/beijing.md
+      - 郊游农家乐: video-intro/beijing_country.md
+      - 北京欢乐谷: video-intro/beijing_happy.md
+      - 罗马湖餐厅: video-intro/beijing_luoma.md
+      - 神采奕奕: video-intro/closeshot.md
+      - 与病魔战斗: video-intro/rehabilitation.md
+      - 张老师和小娟: video-intro/feed.md
+      - 来自黄溥的拥抱: video-intro/hugMartin.md
+      - 来自小宝的拥抱: video-intro/hugBrian.md
+      - 不是一个人: video-intro/notalone.md
   # - 档案馆:
   - 日记本:
       - blog/index.md
